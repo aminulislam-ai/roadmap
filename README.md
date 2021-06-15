@@ -9,3 +9,7 @@
 [Real Python | Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/)
 
 [Real Python | Sentiment Analysis: First Steps With Python's NLTK Library](https://realpython.com/python-nltk-sentiment-analysis/)
+
+## FastAPI
+
+[You Tube | Tech with Tim : Python FAST API Tutorial](https://www.youtube.com/watch?v=-ykeT6kk4bk&t=332s)
