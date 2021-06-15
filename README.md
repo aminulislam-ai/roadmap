@@ -4,6 +4,15 @@
 
 [You Tube | Lecture of Abdul Bari on Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
+## Software Design 
+
+[You Tube | Tech with Tim : An Introduction to Software Design - With Python](https://www.youtube.com/watch?v=-njsRb8Tn70&t=67s)
+
+
+## Scientific Python 
+
+[You Tube | SciPy Tutorial (2021): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=jmX4FOUEfgU&t=294s)
+
 ## Natural Langauge Processing
 
 [Real Python | Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/)
