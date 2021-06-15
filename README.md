@@ -22,3 +22,9 @@
 ## FastAPI
 
 [You Tube | Tech with Tim : Python FAST API Tutorial](https://www.youtube.com/watch?v=-ykeT6kk4bk&t=332s)
+
+
+# Research Paper
+
+## Transformer
+[A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf)
