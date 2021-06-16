@@ -4,9 +4,13 @@
 
 [You Tube | Lecture of Abdul Bari on Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
+## Python Best Practices
+
+[You Tube | Real Python: Best Practices for Python Main Functions](https://www.youtube.com/watch?v=lOeIDvyRUQs)
+
 ## Software Design 
 
-[You Tube | Tech with Tim : An Introduction to Software Design - With Python](https://www.youtube.com/watch?v=-njsRb8Tn70&t=67s)
+[You Tube | Tech with Tim: An Introduction to Software Design - With Python](https://www.youtube.com/watch?v=-njsRb8Tn70&t=67s)
 
 ## Linear Algebra
 
