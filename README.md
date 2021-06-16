@@ -17,7 +17,12 @@
 [You Tube | SciPy Tutorial (2021): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=jmX4FOUEfgU&t=294s)
 
 ## Optimizer
+
 [Blog | Machine Learnig Mastery: Gradient Descent With AdaGrad From Scratch](https://machinelearningmastery.com/gradient-descent-with-adagrad-from-scratch/?fbclid=IwAR1Mc_drimwS0sekO4k26tHuD5DttoBjOFPys-tRG3zsjWT-5mocWIknDLM)
+
+## Debugging TF Models
+
+[Beginners Guide to Debugging TensorFlow Models](https://www.kdnuggets.com/2021/06/beginners-guide-debugging-tensorflow-models.html#.YMjVol7ObTI.linkedin)
 
 ## Natural Langauge Processing
 
