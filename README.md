@@ -4,6 +4,8 @@
 
 [Coding Interview University](https://github.com/jwasham/coding-interview-university?fbclid=IwAR031SuIcbhYI3lsJIsay6u_sDPaeCaaB8bGaiznN5RxcqJI7WCEDwkvwDg)
 
+[Software Engineering : Interview Guide (Bangla)](https://dev.to/khabib97/interview-guide-bangla-1302)
+
 ## Data Structure and Algorithm
 
 [You Tube | Lecture of Abdul Bari on Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
