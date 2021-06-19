@@ -1,5 +1,9 @@
 # AI Engineer Roadmap 
 
+## Interview Preparation
+
+[Coding Interview University](https://github.com/jwasham/coding-interview-university?fbclid=IwAR031SuIcbhYI3lsJIsay6u_sDPaeCaaB8bGaiznN5RxcqJI7WCEDwkvwDg)
+
 ## Data Structure and Algorithm
 
 [You Tube | Lecture of Abdul Bari on Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
