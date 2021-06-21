@@ -14,6 +14,8 @@
 
 [YouTube | Learn with Sumit: Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=5s)
 
+[Git Cheat Sheet – 50 Git Commands You Should Know](https://www.freecodecamp.org/news/git-cheat-sheet/?fbclid=IwAR35CZHLm5uhi9qSG6ZvPpehL2e7wgvRNvbQK-tUly0wCWWLfqLwKzHXwkg)
+
 ## Python Best Practices
 
 [You Tube | Real Python: Best Practices for Python Main Functions](https://www.youtube.com/watch?v=lOeIDvyRUQs)
