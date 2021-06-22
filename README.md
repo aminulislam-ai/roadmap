@@ -16,6 +16,8 @@
 
 [Git Cheat Sheet – 50 Git Commands You Should Know](https://www.freecodecamp.org/news/git-cheat-sheet/?fbclid=IwAR35CZHLm5uhi9qSG6ZvPpehL2e7wgvRNvbQK-tUly0wCWWLfqLwKzHXwkg)
 
+[Ultimate Git Resource](https://github.com/GoldinGuy/UltimateGitResource)
+
 ## Python Best Practices
 
 [You Tube | Real Python: Best Practices for Python Main Functions](https://www.youtube.com/watch?v=lOeIDvyRUQs)
@@ -39,6 +41,10 @@
 ## Debugging TF Models
 
 [Beginners Guide to Debugging TensorFlow Models](https://www.kdnuggets.com/2021/06/beginners-guide-debugging-tensorflow-models.html#.YMjVol7ObTI.linkedin)
+
+## Notes on Machine Learning, Deep Learning
+
+[Notes On Using Data Science & Machine Learning To Fight For Something That Matters](https://chrisalbon.com)
 
 ## Natural Langauge Processing
 
