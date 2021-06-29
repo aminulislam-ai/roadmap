@@ -22,6 +22,10 @@
 
 [You Tube | Real Python: Best Practices for Python Main Functions](https://www.youtube.com/watch?v=lOeIDvyRUQs)
 
+## Machine Learning Toolbox
+
+[Machine Learning Toolbox by Amit Chaudhary](https://amitness.com/toolbox/)
+
 ## Software Design 
 
 [You Tube | Tech with Tim: An Introduction to Software Design - With Python](https://www.youtube.com/watch?v=-njsRb8Tn70&t=67s)
