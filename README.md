@@ -60,6 +60,8 @@
 
 [Real Python | Sentiment Analysis: First Steps With Python's NLTK Library](https://realpython.com/python-nltk-sentiment-analysis/)
 
+[NLP Course](https://github.com/ansegura7/NLP)
+
 ## Docker 
 
 [Learning Docker](https://github.com/thearyanahmed/learning-docker)
