@@ -46,6 +46,10 @@
 
 [Beginners Guide to Debugging TensorFlow Models](https://www.kdnuggets.com/2021/06/beginners-guide-debugging-tensorflow-models.html#.YMjVol7ObTI.linkedin)
 
+## Deep Learning with PyTorch - Sebastian Raschka
+
+[Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)
+
 ## Notes on Machine Learning, Deep Learning
 
 [Notes On Using Data Science & Machine Learning To Fight For Something That Matters](https://chrisalbon.com)
