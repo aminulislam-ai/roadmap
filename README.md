@@ -38,6 +38,14 @@
 
 [You Tube | SciPy Tutorial (2021): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=jmX4FOUEfgU&t=294s)
 
+## Pandas
+
+[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+
+[Pandas Exercise](https://github.com/guipsamora/pandas_exercises)
+
+[Pandas Workshop](https://github.com/stefmolin/pandas-workshop)
+
 ## Optimizer
 
 [Blog | Machine Learnig Mastery: Gradient Descent With AdaGrad From Scratch](https://machinelearningmastery.com/gradient-descent-with-adagrad-from-scratch/?fbclid=IwAR1Mc_drimwS0sekO4k26tHuD5DttoBjOFPys-tRG3zsjWT-5mocWIknDLM)
