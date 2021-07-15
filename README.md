@@ -12,6 +12,18 @@
 
 [You Tube | Lecture of Abdul Bari on Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
+## Object Oriented Programming in Python
+
+[Real Python | Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+
+[Real Python | Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/)
+
+[Python Official Documentation on OOP](https://docs.python.org/3/tutorial/classes.html)
+
+## The Complete Python Development Guide
+
+[The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
+
 ## Git and GitHub
 
 [YouTube | Learn with Sumit: Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=5s)
