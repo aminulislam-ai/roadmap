@@ -32,6 +32,10 @@
 
 [You Tube | Tech with Tim: An Introduction to Software Design - With Python](https://www.youtube.com/watch?v=-njsRb8Tn70&t=67s)
 
+## Design Pattern
+
+[বাংলায় ডিজাইন প্যাটার্ন](https://simantaturja.me/categories/design-patterns/?fbclid=IwAR1oCyX248USncEUMjEd1jmuY0l_DsU8oTBc2hD4P1EgrvdGOucuFxkIe38)
+
 ## Linear Algebra
 
 [Blog | Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
