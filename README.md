@@ -4,6 +4,8 @@
 
 [Coding Interview University](https://github.com/jwasham/coding-interview-university?fbclid=IwAR031SuIcbhYI3lsJIsay6u_sDPaeCaaB8bGaiznN5RxcqJI7WCEDwkvwDg)
 
+[বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](https://github.com/me-shaon/bangla-programming-resources)
+
 [Software Engineering : Interview Guide (Bangla)](https://dev.to/khabib97/interview-guide-bangla-1302)
 
 ## Data Structure and Algorithm
