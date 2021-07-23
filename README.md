@@ -80,6 +80,10 @@
 
 [Notes On Using Data Science & Machine Learning To Fight For Something That Matters](https://chrisalbon.com)
 
+## Deep Learning 
+
+[Deep Learning Drizzle](https://deep-learning-drizzle.github.io)
+
 ## Object Detection and Tracking
 
 [Object Detection and Tracking in 2020](https://blog.netcetera.com/object-detection-and-tracking-in-2020-f10fb6ff9af3)
