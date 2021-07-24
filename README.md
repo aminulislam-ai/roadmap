@@ -98,6 +98,8 @@
 
 [NLP Course](https://github.com/ansegura7/NLP)
 
+[BERT Fundamentals](https://docs.google.com/document/d/1w13N1uDibpoFRZDjGaEbJlkFylDOTj8un0YakCIhmK8/edit?usp=sharing)
+
 ## Docker 
 
 [Learning Docker](https://github.com/thearyanahmed/learning-docker)
