@@ -8,6 +8,8 @@
 
 [Software Engineering : Interview Guide (Bangla)](https://dev.to/khabib97/interview-guide-bangla-1302)
 
+[Video tutorials for modern ideas and open source tools](https://calmcode.io)
+
 ## Data Structure and Algorithm
 
 [You Tube | Lecture of Abdul Bari on Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
