@@ -4,7 +4,7 @@
 
 - [Interview Preparation](#interview-preparation)
 - [Data Structure and Algorithm](#data-structure-and-algorithm)
-- [Object Oriented Programming in Python](#object-oriented-programming-in-python]
+- [Object Oriented Programming in Python](#object-oriented-programming-in-python)
 - [The Complete Python Development Guide](#the-complete-python-development-guide)
 - [Git and GitHub](#git-and-github)
 - [Python Best Practices](#python-best-practices)
@@ -15,8 +15,19 @@
 - [Scientific Python](#scientific-python)
 - [Pandas](#pandas)
 - [Optimizer](#optimizer)
-- 
+- [Debugging TensorFlow Models](#debugging-tensorflow-models)
+- [Deep Learning with PyTorch - Sebastian Raschka](#deep-learning-with-pytorch-sebastian-raschka)
+- [Notes on Machine Learning, Deep Learning](#notes-on-machine-learning-deep-learning)
+- [Deep Learning](#deep-learning)
+- [Object Detection and Tracking](#object-detection-and-tracking)
+- [Natural Language Processing](#natural-language-processing)
+- [Docker](#docker)
+- [FastAPI](#fastapi)
+- [Antipattern in Python](#antipattern-in-python)
 - [BERT](#bert)
+- [Research Paper](#research-paper)
+- [Transformer](#transformer)
+
 
 ## Interview Preparation
 
@@ -88,7 +99,7 @@
 
 [Blog | Machine Learnig Mastery: Gradient Descent With AdaGrad From Scratch](https://machinelearningmastery.com/gradient-descent-with-adagrad-from-scratch/?fbclid=IwAR1Mc_drimwS0sekO4k26tHuD5DttoBjOFPys-tRG3zsjWT-5mocWIknDLM)
 
-## Debugging TF Models
+## Debugging TensorFlow Models
 
 [Beginners Guide to Debugging TensorFlow Models](https://www.kdnuggets.com/2021/06/beginners-guide-debugging-tensorflow-models.html#.YMjVol7ObTI.linkedin)
 
@@ -134,11 +145,6 @@
 
 [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html?fbclid=IwAR3U6LR1RYyO5mff3dhb__hHH653cGDdrcgFPRatXIhhVNQIM4aEVLaGHfI)
 
-
-# Research Paper
-
-## Transformer
-[A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf)
 
 ## BERT
 
@@ -237,3 +243,11 @@ SQuAD2.0:
 * [https://keras.io/examples/nlp/masked_language_modeling/](https://keras.io/examples/nlp/masked_language_modeling/) 
 * [https://keras.io/examples/nlp/semantic_similarity_with_bert/](https://keras.io/examples/nlp/semantic_similarity_with_bert/) 
 * [https://keras.io/examples/nlp/text_extraction_with_bert/](https://keras.io/examples/nlp/text_extraction_with_bert/) 
+
+
+# Research Paper
+
+## Transformer
+[A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf)
+
+
