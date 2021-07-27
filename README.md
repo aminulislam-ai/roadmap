@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Interview Preparation](#interview-preparation)
+- [Data Structure and Algorithm](#data-structure-and-algorithm)
 
 ## Interview Preparation
 
