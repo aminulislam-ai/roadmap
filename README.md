@@ -1,5 +1,9 @@
 # AI Engineer Roadmap 
 
+## Table of Contents
+
+- [Interview Preparation](#interview-preparation)
+
 ## Interview Preparation
 
 [Coding Interview University](https://github.com/jwasham/coding-interview-university?fbclid=IwAR031SuIcbhYI3lsJIsay6u_sDPaeCaaB8bGaiznN5RxcqJI7WCEDwkvwDg)
