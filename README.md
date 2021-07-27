@@ -41,13 +41,13 @@
 
 ## Data Structure and Algorithm
 
-[You Tube | Lecture of Abdul Bari on Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+[You Tube - Lecture of Abdul Bari on Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 ## Object Oriented Programming in Python
 
-[Real Python | Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+[Real Python - Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
 
-[Real Python | Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/)
+[Real Python - Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/)
 
 [Python Official Documentation on OOP](https://docs.python.org/3/tutorial/classes.html)
 
@@ -57,7 +57,7 @@
 
 ## Git and GitHub
 
-[YouTube | Learn with Sumit: Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=5s)
+[YouTube - Learn with Sumit: Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=5s)
 
 [Git Cheat Sheet – 50 Git Commands You Should Know](https://www.freecodecamp.org/news/git-cheat-sheet/?fbclid=IwAR35CZHLm5uhi9qSG6ZvPpehL2e7wgvRNvbQK-tUly0wCWWLfqLwKzHXwkg)
 
@@ -65,7 +65,7 @@
 
 ## Python Best Practices
 
-[You Tube | Real Python: Best Practices for Python Main Functions](https://www.youtube.com/watch?v=lOeIDvyRUQs)
+[You Tube - Real Python: Best Practices for Python Main Functions](https://www.youtube.com/watch?v=lOeIDvyRUQs)
 
 ## Machine Learning Toolbox
 
@@ -73,7 +73,7 @@
 
 ## Software Design 
 
-[You Tube | Tech with Tim: An Introduction to Software Design - With Python](https://www.youtube.com/watch?v=-njsRb8Tn70&t=67s)
+[You Tube - Tech with Tim: An Introduction to Software Design - With Python](https://www.youtube.com/watch?v=-njsRb8Tn70&t=67s)
 
 ## Design Pattern
 
@@ -81,11 +81,11 @@
 
 ## Linear Algebra
 
-[Blog | Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
+[Blog - Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 
 ## Scientific Python 
 
-[You Tube | SciPy Tutorial (2021): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=jmX4FOUEfgU&t=294s)
+[You Tube - SciPy Tutorial (2021): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=jmX4FOUEfgU&t=294s)
 
 ## Pandas
 
@@ -97,7 +97,7 @@
 
 ## Optimizer
 
-[Blog | Machine Learnig Mastery: Gradient Descent With AdaGrad From Scratch](https://machinelearningmastery.com/gradient-descent-with-adagrad-from-scratch/?fbclid=IwAR1Mc_drimwS0sekO4k26tHuD5DttoBjOFPys-tRG3zsjWT-5mocWIknDLM)
+[Blog - Machine Learnig Mastery: Gradient Descent With AdaGrad From Scratch](https://machinelearningmastery.com/gradient-descent-with-adagrad-from-scratch/?fbclid=IwAR1Mc_drimwS0sekO4k26tHuD5DttoBjOFPys-tRG3zsjWT-5mocWIknDLM)
 
 ## Debugging TensorFlow Models
 
@@ -121,9 +121,9 @@
 
 ## Natural Langauge Processing
 
-[Real Python | Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/)
+[Real Python - Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/)
 
-[Real Python | Sentiment Analysis: First Steps With Python's NLTK Library](https://realpython.com/python-nltk-sentiment-analysis/)
+[Real Python - Sentiment Analysis: First Steps With Python's NLTK Library](https://realpython.com/python-nltk-sentiment-analysis/)
 
 [NLP Course](https://github.com/ansegura7/NLP)
 
@@ -135,11 +135,11 @@
 
 ## FastAPI
 
-[You Tube | Tech with Tim : Python FAST API Tutorial](https://www.youtube.com/watch?v=-ykeT6kk4bk&t=332s)
+[You Tube - Tech with Tim : Python FAST API Tutorial](https://www.youtube.com/watch?v=-ykeT6kk4bk&t=332s)
 
 ## MLOps
 
-[Made With ML | MLOps](https://madewithml.com)
+[Made With ML - MLOps](https://madewithml.com)
 
 ## Antipattern in Python
 
