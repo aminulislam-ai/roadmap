@@ -168,9 +168,13 @@ The Illustrated Transformer by Jay Alammar:
 
 [http://jalammar.github.io/illustrated-transformer/](http://jalammar.github.io/illustrated-transformer/) 
 
-The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) [http://jalammar.github.io/illustrated-bert/](http://jalammar.github.io/illustrated-bert/)
+The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) 
 
-A Visual Guide to Using BERT for the First Time [http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) 
+[http://jalammar.github.io/illustrated-bert/](http://jalammar.github.io/illustrated-bert/)
+
+A Visual Guide to Using BERT for the First Time 
+
+[http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) 
 
 **Video Explanation on BERT:**
 
