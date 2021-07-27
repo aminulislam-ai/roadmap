@@ -11,6 +11,7 @@
 - [Machine Learning Toolbox](#machine-learning-toolbox)
 - [Software Design](#software-design)
 - [Design Pattern](#design-pattern)
+- [SOLID Principles](#solid-principles)
 - [Linear Algebra](#linear-algebra)
 - [Scientific Python](#scientific-python)
 - [Pandas](#pandas)
@@ -78,6 +79,13 @@
 ## Design Pattern
 
 [বাংলায় ডিজাইন প্যাটার্ন](https://simantaturja.me/categories/design-patterns/?fbclid=IwAR1oCyX248USncEUMjEd1jmuY0l_DsU8oTBc2hD4P1EgrvdGOucuFxkIe38)
+
+## SOLID Principles
+
+[SOLID Principles Visualization](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+
+[SOLID Principles Implementation in Python](https://towardsdatascience.com/5-principles-to-write-solid-code-examples-in-python-9062272e6bdc)
+
 
 ## Linear Algebra
 
