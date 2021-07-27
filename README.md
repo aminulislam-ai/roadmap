@@ -4,6 +4,19 @@
 
 - [Interview Preparation](#interview-preparation)
 - [Data Structure and Algorithm](#data-structure-and-algorithm)
+- [Object Oriented Programming in Python](#object-oriented-programming-in-python]
+- [The Complete Python Development Guide](#the-complete-python-development-guide)
+- [Git and GitHub](#git-and-github)
+- [Python Best Practices](#python-best-practices)
+- [Machine Learning Toolbox](#machine-learning-toolbox)
+- [Software Design](#software-design)
+- [Design Pattern](#design-pattern)
+- [Linear Algebra](#linear-algebra)
+- [Scientific Python](#scientific-python)
+- [Pandas](#pandas)
+- [Optimizer](#optimizer)
+- 
+- [BERT](#bert)
 
 ## Interview Preparation
 
