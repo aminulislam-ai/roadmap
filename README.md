@@ -121,3 +121,101 @@
 
 ## Transformer
 [A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf)
+
+## BERT
+
+**BERT: Bidirectional Encoder Representation from Transformers**
+
+Main Paper: [https://arxiv.org/pdf/1810.04805.pdf](https://arxiv.org/pdf/1810.04805.pdf) 
+
+**Jacob Devlin**
+
+BERT Presentation by Devlin:
+
+[https://nlp.stanford.edu/seminar/details/jdevlin.pdf](https://nlp.stanford.edu/seminar/details/jdevlin.pdf) 
+
+BERT Explanation Video by Devlin:
+
+[https://www.youtube.com/watch?v=knTc-NQSjKA](https://www.youtube.com/watch?v=knTc-NQSjKA) 
+
+**Jay Alammar**
+
+The Illustrated Transformer by Jay Alammar:
+
+[http://jalammar.github.io/illustrated-transformer/](http://jalammar.github.io/illustrated-transformer/) 
+
+The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) [http://jalammar.github.io/illustrated-bert/](http://jalammar.github.io/illustrated-bert/)
+
+A Visual Guide to Using BERT for the First Time [http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) 
+
+**Video Explanation on BERT:**
+
+* YTC means YouTube Channel
+
+Code Emporium YTC:
+
+[https://www.youtube.com/watch?v=xI0HHN5XKDo&t=4s](https://www.youtube.com/watch?v=xI0HHN5XKDo&t=4s) 
+
+Henry AI Labs YTC:
+
+[https://www.youtube.com/watch?v=OR0wfP2FD3c](https://www.youtube.com/watch?v=OR0wfP2FD3c) 
+
+Aladdin Persson YTC:
+
+[https://www.youtube.com/watch?v=yCj8jHnm5OQ](https://www.youtube.com/watch?v=yCj8jHnm5OQ) 
+
+Rasa YTC:
+
+[https://www.youtube.com/watch?v=zMxvS7hD-Ug](https://www.youtube.com/watch?v=zMxvS7hD-Ug) 
+
+Transfer learning and Transformer models (ML Tech Talks) by TensorFlow YTC:
+
+[https://www.youtube.com/watch?v=LE3NfEULV6k&list=PLQY2H8rRoyvwmjfn7hM-Yg_6RIyoMnKQx&index=8](https://www.youtube.com/watch?v=LE3NfEULV6k&list=PLQY2H8rRoyvwmjfn7hM-Yg_6RIyoMnKQx&index=8) 
+
+BERT Explanation by Codebasics YTC:
+
+[https://www.youtube.com/watch?v=7kLi8u2dJz0](https://www.youtube.com/watch?v=7kLi8u2dJz0) 
+
+Text Classification using BERT Codebasics YTC:
+
+[https://www.youtube.com/watch?v=D9yyt6BfgAM](https://www.youtube.com/watch?v=D9yyt6BfgAM) 
+
+**Papers and Blogs on BERT**
+
+BERT Overview:
+
+[https://arxiv.org/pdf/2002.12327v1.pdf](https://arxiv.org/pdf/2002.12327v1.pdf) 
+
+BERT Explained: State-of-the-art language model for NLP
+
+[https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270) 
+
+How the Embedding Layers in BERT were implemented:
+
+[https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a](https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a) 
+
+Tokenizers: How machines read
+
+[https://blog.floydhub.com/tokenization-nlp/](https://blog.floydhub.com/tokenization-nlp/) 
+
+Google BERT NLP Machine Learning Tutorial:
+
+[https://www.freecodecamp.org/news/google-bert-nlp-machine-learning-tutorial/](https://www.freecodecamp.org/news/google-bert-nlp-machine-learning-tutorial/) 
+
+**Use Cases**
+
+Understanding searches better than ever before 
+
+[https://blog.google/products/search/search-language-understanding-bert/](https://blog.google/products/search/search-language-understanding-bert/) 
+
+SQuAD2.0:
+
+[https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/) 
+
+**Code Examples on Keras and Tensorflow:**
+
+
+
+* [https://keras.io/examples/nlp/masked_language_modeling/](https://keras.io/examples/nlp/masked_language_modeling/) 
+* [https://keras.io/examples/nlp/semantic_similarity_with_bert/](https://keras.io/examples/nlp/semantic_similarity_with_bert/) 
+* [https://keras.io/examples/nlp/text_extraction_with_bert/](https://keras.io/examples/nlp/text_extraction_with_bert/) 
