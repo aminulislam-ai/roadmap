@@ -50,8 +50,7 @@
 
 [Programming Terms: Closures - How to Use Them and Why They Are Useful](https://www.youtube.com/watch?v=swU3c34d2NQ)
 
-[Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions
-](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
+[Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
 
 ## Object Oriented Programming in Python
 
