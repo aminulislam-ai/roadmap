@@ -1,9 +1,10 @@
-# AI Engineer Roadmap 
+# AI Engineer Roadmap
 
 ## Table of Contents
 
 - [Interview Preparation](#interview-preparation)
 - [Data Structure and Algorithm](#data-structure-and-algorithm)
+- [Python Terms](#python-terms)
 - [Object Oriented Programming in Python](#object-oriented-programming-in-python)
 - [The Complete Python Development Guide](#the-complete-python-development-guide)
 - [Git and GitHub](#git-and-github)
@@ -29,7 +30,6 @@
 - [Research Paper](#research-paper)
 - [Transformer](#transformer)
 
-
 ## Interview Preparation
 
 [Coding Interview University](https://github.com/jwasham/coding-interview-university?fbclid=IwAR031SuIcbhYI3lsJIsay6u_sDPaeCaaB8bGaiznN5RxcqJI7WCEDwkvwDg)
@@ -43,6 +43,15 @@
 ## Data Structure and Algorithm
 
 [You Tube - Lecture of Abdul Bari on Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
+## Python Terms
+
+[Programming Terms: First-Class Functions](https://www.youtube.com/watch?v=kr0mpwqttM0)
+
+[Programming Terms: Closures - How to Use Them and Why They Are Useful](https://www.youtube.com/watch?v=swU3c34d2NQ)
+
+[Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions
+](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
 
 ## Object Oriented Programming in Python
 
@@ -72,7 +81,7 @@
 
 [Machine Learning Toolbox by Amit Chaudhary](https://amitness.com/toolbox/)
 
-## Software Design 
+## Software Design
 
 [You Tube - Tech with Tim: An Introduction to Software Design - With Python](https://www.youtube.com/watch?v=-njsRb8Tn70&t=67s)
 
@@ -86,12 +95,11 @@
 
 [SOLID Principles Implementation in Python](https://towardsdatascience.com/5-principles-to-write-solid-code-examples-in-python-9062272e6bdc)
 
-
 ## Linear Algebra
 
 [Blog - Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 
-## Scientific Python 
+## Scientific Python
 
 [You Tube - SciPy Tutorial (2021): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=jmX4FOUEfgU&t=294s)
 
@@ -119,7 +127,7 @@
 
 [Notes On Using Data Science & Machine Learning To Fight For Something That Matters](https://chrisalbon.com)
 
-## Deep Learning 
+## Deep Learning
 
 [Deep Learning Drizzle](https://deep-learning-drizzle.github.io)
 
@@ -137,7 +145,7 @@
 
 [BERT Fundamentals](https://docs.google.com/document/d/1w13N1uDibpoFRZDjGaEbJlkFylDOTj8un0YakCIhmK8/edit?usp=sharing)
 
-## Docker 
+## Docker
 
 [Learning Docker](https://github.com/thearyanahmed/learning-docker)
 
@@ -153,7 +161,6 @@
 
 [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html?fbclid=IwAR3U6LR1RYyO5mff3dhb__hHH653cGDdrcgFPRatXIhhVNQIM4aEVLaGHfI)
 
-
 ## BERT
 
 **BERT: Bidirectional Encoder Representation from Transformers**
@@ -162,66 +169,62 @@
 
 **Jacob Devlin**
 
-[BERT Presentation by Devlin](https://nlp.stanford.edu/seminar/details/jdevlin.pdf) 
+[BERT Presentation by Devlin](https://nlp.stanford.edu/seminar/details/jdevlin.pdf)
 
-[BERT Explanation Video by Devlin](https://www.youtube.com/watch?v=knTc-NQSjKA) 
+[BERT Explanation Video by Devlin](https://www.youtube.com/watch?v=knTc-NQSjKA)
 
 **Jay Alammar**
 
-[The Illustrated Transformer by Jay Alammar](http://jalammar.github.io/illustrated-transformer/) 
+[The Illustrated Transformer by Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
 
 [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)
 
-[A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) 
+[A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 
 **Video Explanation on BERT:**
 
-* YTC means YouTube Channel
+- YTC means YouTube Channel
 
-[Code Emporium YTC](https://www.youtube.com/watch?v=xI0HHN5XKDo&t=4s) 
+[Code Emporium YTC](https://www.youtube.com/watch?v=xI0HHN5XKDo&t=4s)
 
-[Henry AI Labs YTC](https://www.youtube.com/watch?v=OR0wfP2FD3c) 
+[Henry AI Labs YTC](https://www.youtube.com/watch?v=OR0wfP2FD3c)
 
-[Aladdin Persson YTC](https://www.youtube.com/watch?v=yCj8jHnm5OQ) 
+[Aladdin Persson YTC](https://www.youtube.com/watch?v=yCj8jHnm5OQ)
 
-[Rasa YTC](https://www.youtube.com/watch?v=zMxvS7hD-Ug) 
+[Rasa YTC](https://www.youtube.com/watch?v=zMxvS7hD-Ug)
 
-[Transfer learning and Transformer models (ML Tech Talks) by TensorFlow YTC](https://www.youtube.com/watch?v=LE3NfEULV6k&list=PLQY2H8rRoyvwmjfn7hM-Yg_6RIyoMnKQx&index=8) 
+[Transfer learning and Transformer models (ML Tech Talks) by TensorFlow YTC](https://www.youtube.com/watch?v=LE3NfEULV6k&list=PLQY2H8rRoyvwmjfn7hM-Yg_6RIyoMnKQx&index=8)
 
-[BERT Explanation by Codebasics YTC](https://www.youtube.com/watch?v=7kLi8u2dJz0) 
+[BERT Explanation by Codebasics YTC](https://www.youtube.com/watch?v=7kLi8u2dJz0)
 
-[Text Classification using BERT Codebasics YTC](https://www.youtube.com/watch?v=D9yyt6BfgAM) 
+[Text Classification using BERT Codebasics YTC](https://www.youtube.com/watch?v=D9yyt6BfgAM)
 
 **Papers and Blogs on BERT**
 
-[BERT Overview](https://arxiv.org/pdf/2002.12327v1.pdf) 
+[BERT Overview](https://arxiv.org/pdf/2002.12327v1.pdf)
 
-[BERT Explained: State-of-the-art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270) 
+[BERT Explained: State-of-the-art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 
-[How the Embedding Layers in BERT were implemented](https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a) 
+[How the Embedding Layers in BERT were implemented](https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a)
 
-[Tokenizers: How machines read](https://blog.floydhub.com/tokenization-nlp/) 
+[Tokenizers: How machines read](https://blog.floydhub.com/tokenization-nlp/)
 
-[Google BERT NLP Machine Learning Tutorial](https://www.freecodecamp.org/news/google-bert-nlp-machine-learning-tutorial/) 
+[Google BERT NLP Machine Learning Tutorial](https://www.freecodecamp.org/news/google-bert-nlp-machine-learning-tutorial/)
 
 **Use Cases**
 
-[Understanding searches better than ever before](https://blog.google/products/search/search-language-understanding-bert/) 
+[Understanding searches better than ever before](https://blog.google/products/search/search-language-understanding-bert/)
 
-[SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/) 
+[SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/)
 
 **Code Examples on Keras and Tensorflow:**
 
-
-
-* [End-to-end Masked Language Modeling with BERT](https://keras.io/examples/nlp/masked_language_modeling/) 
-* [Semantic Similarity with BERT](https://keras.io/examples/nlp/semantic_similarity_with_bert/) 
-* [Text Extraction with BERT](https://keras.io/examples/nlp/text_extraction_with_bert/) 
-
+- [End-to-end Masked Language Modeling with BERT](https://keras.io/examples/nlp/masked_language_modeling/)
+- [Semantic Similarity with BERT](https://keras.io/examples/nlp/semantic_similarity_with_bert/)
+- [Text Extraction with BERT](https://keras.io/examples/nlp/text_extraction_with_bert/)
 
 # Research Paper
 
 ## Transformer
+
 [A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf)
-
-
