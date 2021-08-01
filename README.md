@@ -21,6 +21,7 @@
 - [Deep Learning with PyTorch - Sebastian Raschka](#deep-learning-with-pytorch-sebastian-raschka)
 - [Notes on Machine Learning, Deep Learning](#notes-on-machine-learning-deep-learning)
 - [Deep Learning](#deep-learning)
+- [Image Classification using PyTorch](#image-classification-using-pytorch)
 - [Object Detection and Tracking](#object-detection-and-tracking)
 - [Natural Language Processing](#natural-language-processing)
 - [Docker](#docker)
@@ -133,6 +134,10 @@
 ## Deep Learning
 
 [Deep Learning Drizzle](https://deep-learning-drizzle.github.io)
+
+## Image Classification using PyTorch
+
+[List of SOTA Image Classification using PyTorch](https://github.com/Mayurji/Image-Classification-PyTorch?fbclid=IwAR3SYTw9sd53FMKaqp8LQA3alUVEBqUSGidJXeMQGB5b7GyOd1ML-fgdndY)
 
 ## Object Detection and Tracking
 
