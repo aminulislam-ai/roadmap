@@ -88,6 +88,10 @@
 
 [বাংলায় ডিজাইন প্যাটার্ন](https://simantaturja.me/categories/design-patterns/?fbclid=IwAR1oCyX248USncEUMjEd1jmuY0l_DsU8oTBc2hD4P1EgrvdGOucuFxkIe38)
 
+[Design Patterns in Python](https://refactoring.guru/design-patterns/python)
+
+[Head First Design Patterns Python](https://github.com/miguelalba-old/hfdp-python)
+
 ## SOLID Principles
 
 [SOLID Principles Visualization](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
