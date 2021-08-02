@@ -27,9 +27,9 @@
 - [Docker](#docker)
 - [FastAPI](#fastapi)
 - [Antipattern in Python](#antipattern-in-python)
+- [Transformer](#transformer)
 - [BERT](#bert)
 - [Research Paper](#research-paper)
-- [Transformer](#transformer)
 
 ## Interview Preparation
 
@@ -169,11 +169,19 @@
 
 [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html?fbclid=IwAR3U6LR1RYyO5mff3dhb__hHH653cGDdrcgFPRatXIhhVNQIM4aEVLaGHfI)
 
+## Transformer
+
+[The Illustrated Transformer by Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
+
+[TRANSFORMERS FROM SCRATCH](http://peterbloem.nl/blog/transformers?fbclid=IwAR1NBBoXTdPnAXXIzVvHmZEALsvOvjXxoop69HDnVs5085rOU8SX0RU4ff0)
+
+[Paper - A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf)
+
 ## BERT
 
 **BERT: Bidirectional Encoder Representation from Transformers**
 
-[Main Paper](https://arxiv.org/pdf/1810.04805.pdf)
+[BERT Main Paper](https://arxiv.org/pdf/1810.04805.pdf)
 
 **Jacob Devlin**
 
@@ -183,29 +191,25 @@
 
 **Jay Alammar**
 
-[The Illustrated Transformer by Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
-
 [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)
 
 [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 
 **Video Explanation on BERT:**
 
-- YTC means YouTube Channel
+[Code Emporium - BERT Neural Network - EXPLAINED!](https://www.youtube.com/watch?v=xI0HHN5XKDo&t=4s)
 
-[Code Emporium YTC](https://www.youtube.com/watch?v=xI0HHN5XKDo&t=4s)
+[Henry AI Labs - BERT Explained!](https://www.youtube.com/watch?v=OR0wfP2FD3c)
 
-[Henry AI Labs YTC](https://www.youtube.com/watch?v=OR0wfP2FD3c)
+[Aladdin Persson - BERT Paper Explained](https://www.youtube.com/watch?v=yCj8jHnm5OQ)
 
-[Aladdin Persson YTC](https://www.youtube.com/watch?v=yCj8jHnm5OQ)
+[Rasa - NLP for Developers: BERT | Rasa](https://www.youtube.com/watch?v=zMxvS7hD-Ug)
 
-[Rasa YTC](https://www.youtube.com/watch?v=zMxvS7hD-Ug)
+[TensorFlow - Transfer learning and Transformer models (ML Tech Talks)](https://www.youtube.com/watch?v=LE3NfEULV6k&list=PLQY2H8rRoyvwmjfn7hM-Yg_6RIyoMnKQx&index=8)
 
-[Transfer learning and Transformer models (ML Tech Talks) by TensorFlow YTC](https://www.youtube.com/watch?v=LE3NfEULV6k&list=PLQY2H8rRoyvwmjfn7hM-Yg_6RIyoMnKQx&index=8)
+[Codebasics - What is BERT?](https://www.youtube.com/watch?v=7kLi8u2dJz0)
 
-[BERT Explanation by Codebasics YTC](https://www.youtube.com/watch?v=7kLi8u2dJz0)
-
-[Text Classification using BERT Codebasics YTC](https://www.youtube.com/watch?v=D9yyt6BfgAM)
+[Codebasics - Text Classification Using BERT & TensorFlow](https://www.youtube.com/watch?v=D9yyt6BfgAM)
 
 **Papers and Blogs on BERT**
 
@@ -232,7 +236,3 @@
 - [Text Extraction with BERT](https://keras.io/examples/nlp/text_extraction_with_bert/)
 
 # Research Paper
-
-## Transformer
-
-[A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf)
