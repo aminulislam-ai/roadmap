@@ -203,7 +203,7 @@
 
 [Aladdin Persson - BERT Paper Explained](https://www.youtube.com/watch?v=yCj8jHnm5OQ)
 
-[Rasa - NLP for Developers: BERT | Rasa](https://www.youtube.com/watch?v=zMxvS7hD-Ug)
+[Rasa - NLP for Developers: BERT](https://www.youtube.com/watch?v=zMxvS7hD-Ug)
 
 [TensorFlow - Transfer learning and Transformer models (ML Tech Talks)](https://www.youtube.com/watch?v=LE3NfEULV6k&list=PLQY2H8rRoyvwmjfn7hM-Yg_6RIyoMnKQx&index=8)
 
