@@ -30,6 +30,8 @@
 - [Transformer](#transformer)
 - [BERT](#bert)
 - [Research Paper](#research-paper)
+- [Medium Blog enlisting 4 papers on monthend](#medium-blog-enlisting-4-papers-on-monthend)
+- [NLP Reading Group Papers](#nlp-reading-group-papers)
 
 ## Interview Preparation
 
@@ -238,3 +240,13 @@
 - [Text Extraction with BERT](https://keras.io/examples/nlp/text_extraction_with_bert/)
 
 # Research Paper
+
+## Medium Blog enlisting 4 papers on monthend 
+
+[Four Deep Learning Papers to Read in each month](https://medium.com/@RobertTLange)
+
+## NLP Reading Group Papers
+
+[NLP Reading Summer21](https://docs.google.com/document/d/e/2PACX-1vRia76U_JQwpLgGoQRH2mQHJewl1kJcXKiOib81ga3WS6vFkQUucRLwtGI_rUSxQqtett1h2z0cJetl/pub?urp=gmail_link)
+
+[NLP Reading Fall21](https://docs.google.com/document/d/e/2PACX-1vSPhi_N9BqxTrla-4Zpgvtx2pZt-ZH5gAIUi5pBA8gR40oG5Nqc4GExxJvwpp-x7UQoTQy9DlhQLL_P/pub?urp=gmail_link)
