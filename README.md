@@ -47,13 +47,15 @@
 
 ## Python Terms
 
-[Programming Terms: First-Class Functions](https://www.youtube.com/watch?v=kr0mpwqttM0)
+[Corey Schafer - Programming Terms: First-Class Functions](https://www.youtube.com/watch?v=kr0mpwqttM0)
 
-[Programming Terms: Closures - How to Use Them and Why They Are Useful](https://www.youtube.com/watch?v=swU3c34d2NQ)
+[Corey Schafer - Programming Terms: Closures - How to Use Them and Why They Are Useful](https://www.youtube.com/watch?v=swU3c34d2NQ)
 
-[Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
+[Corey Schafer - Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
 
 ## Object Oriented Programming in Python
+
+[Corey Schafer - Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 [Real Python - Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
 
