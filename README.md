@@ -149,6 +149,8 @@
 
 ## Natural Langauge Processing
 
+[NLP New Lecture of 2021 suggested by elvis](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA)
+
 [Real Python - Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/)
 
 [Real Python - Sentiment Analysis: First Steps With Python's NLTK Library](https://realpython.com/python-nltk-sentiment-analysis/)
