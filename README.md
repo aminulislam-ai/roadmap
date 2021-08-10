@@ -23,7 +23,7 @@
 - [Deep Learning](#deep-learning)
 - [Image Classification using PyTorch](#image-classification-using-pytorch)
 - [Object Detection and Tracking](#object-detection-and-tracking)
-- [Natural Language Processing](natural-language-processing)
+- [Natural Language Processing](#natural-language-processing)
 - [Docker](#docker)
 - [FastAPI](#fastapi)
 - [Antipattern in Python](#antipattern-in-python)
