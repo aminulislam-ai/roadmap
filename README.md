@@ -18,12 +18,12 @@
 - [Pandas](#pandas)
 - [Optimizer](#optimizer)
 - [Debugging TensorFlow Models](#debugging-tensorflow-models)
-- [Deep Learning with PyTorch - Sebastian Raschka](#deep-learning-with-pytorch-sebastian-raschka)
+- [Deep Learning with PyTorch by Sebastian Raschka](#deep-learning-with-pytorch-by-sebastian-raschka)
 - [Notes on Machine Learning, Deep Learning](#notes-on-machine-learning-deep-learning)
 - [Deep Learning](#deep-learning)
 - [Image Classification using PyTorch](#image-classification-using-pytorch)
 - [Object Detection and Tracking](#object-detection-and-tracking)
-- [Natural Language Processing](#natural-language-processing)
+- [Natural Language Processing](natural-language-processing)
 - [Docker](#docker)
 - [FastAPI](#fastapi)
 - [Antipattern in Python](#antipattern-in-python)
@@ -46,6 +46,10 @@
 ## Data Structure and Algorithm
 
 [You Tube - Lecture of Abdul Bari on Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
+[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html)
+
+[All algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 
 ## Python Terms
 
@@ -127,7 +131,7 @@
 
 [Beginners Guide to Debugging TensorFlow Models](https://www.kdnuggets.com/2021/06/beginners-guide-debugging-tensorflow-models.html#.YMjVol7ObTI.linkedin)
 
-## Deep Learning with PyTorch - Sebastian Raschka
+## Deep Learning with PyTorch by Sebastian Raschka
 
 [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)
 
