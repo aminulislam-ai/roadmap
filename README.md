@@ -33,6 +33,7 @@
 - [BERT](#bert)
 - [Research Paper](#research-paper)
 - [Medium Blog enlisting 4 papers on monthend](#medium-blog-enlisting-4-papers-on-monthend)
+- [Paper Lists by Eugene Yan](#paper-lists-by-eugene-yan)
 - [NLP Reading Group Papers](#nlp-reading-group-papers)
 
 ## Interview Preparation
