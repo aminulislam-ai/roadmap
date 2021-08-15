@@ -4,6 +4,7 @@
 
 - [Interview Preparation](#interview-preparation)
 - [Data Structure and Algorithm](#data-structure-and-algorithm)
+- [Python](#python)
 - [Python Terms](#python-terms)
 - [Object Oriented Programming in Python](#object-oriented-programming-in-python)
 - [The Complete Python Development Guide](#the-complete-python-development-guide)
@@ -21,6 +22,7 @@
 - [Deep Learning with PyTorch by Sebastian Raschka](#deep-learning-with-pytorch-by-sebastian-raschka)
 - [Notes on Machine Learning, Deep Learning](#notes-on-machine-learning-deep-learning)
 - [Deep Learning](#deep-learning)
+- [Computer Vision](#computer-vision)
 - [Image Classification using PyTorch](#image-classification-using-pytorch)
 - [Object Detection and Tracking](#object-detection-and-tracking)
 - [Natural Language Processing](#natural-language-processing)
@@ -37,6 +39,10 @@
 
 [Coding Interview University](https://github.com/jwasham/coding-interview-university?fbclid=IwAR031SuIcbhYI3lsJIsay6u_sDPaeCaaB8bGaiznN5RxcqJI7WCEDwkvwDg)
 
+[Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+
+[Open Source Society University - Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)
+
 [বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](https://github.com/me-shaon/bangla-programming-resources)
 
 [Software Engineering : Interview Guide (Bangla)](https://dev.to/khabib97/interview-guide-bangla-1302)
@@ -50,6 +56,10 @@
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html)
 
 [All algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+
+## Python
+
+[Learning Python - Resource List](https://docs.python-guide.org/intro/learning/?fbclid=IwAR2qrGL45aXl1jD0PJStrYdtEhjBm9st9raj2816LaDzC_YdtgPQe8eLl_Q)
 
 ## Python Terms
 
@@ -142,6 +152,11 @@
 ## Deep Learning
 
 [Deep Learning Drizzle](https://deep-learning-drizzle.github.io)
+
+## Computer Vision
+
+[Glossary of Common Computer Vision Terms](https://blog.roboflow.com/glossary/)
+
 
 ## Image Classification using PyTorch
 
