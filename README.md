@@ -156,6 +156,8 @@
 
 [Deep Learning Drizzle](https://deep-learning-drizzle.github.io)
 
+[Start Machine Learning in 2021 - Become an expert for free!](https://github.com/louisfb01/start-machine-learning-in-2020?fbclid=IwAR1Bu4E2AoEM3hvZyorBlrbvDu5xS63bnQPgMPYuPC_HuYvdDdzVmjilz6k)
+
 ## Computer Vision
 
 [Glossary of Common Computer Vision Terms](https://blog.roboflow.com/glossary/)
