@@ -151,6 +151,8 @@
 
 ## Deep Learning
 
+[The data science and artificial intelligence terms you need while reading the latest research](https://deepai.org/definitions)
+
 [Deep Learning Drizzle](https://deep-learning-drizzle.github.io)
 
 ## Computer Vision
