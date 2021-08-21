@@ -228,7 +228,7 @@
 
 [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 
-**Video Explanation on BERT:**
+**Video Explanation on BERT**
 
 [Code Emporium - BERT Neural Network - EXPLAINED!](https://www.youtube.com/watch?v=xI0HHN5XKDo&t=4s)
 
@@ -262,7 +262,7 @@
 
 [SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/)
 
-**Code Examples on Keras and Tensorflow:**
+**Code Examples on Keras and Tensorflow**
 
 - [End-to-end Masked Language Modeling with BERT](https://keras.io/examples/nlp/masked_language_modeling/)
 - [Semantic Similarity with BERT](https://keras.io/examples/nlp/semantic_similarity_with_bert/)
