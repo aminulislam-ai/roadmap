@@ -48,6 +48,8 @@
 
 [Software Engineering : Interview Guide (Bangla)](https://dev.to/khabib97/interview-guide-bangla-1302)
 
+[Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব by Sabir Ismail](https://github.com/sabir4063/my_preparation)
+
 [Video tutorials for modern ideas and open source tools](https://calmcode.io)
 
 ## Data Structure and Algorithm
@@ -162,7 +164,6 @@
 
 [Glossary of Common Computer Vision Terms](https://blog.roboflow.com/glossary/)
 
-
 ## Image Classification using PyTorch
 
 [List of SOTA Image Classification using PyTorch](https://github.com/Mayurji/Image-Classification-PyTorch?fbclid=IwAR3SYTw9sd53FMKaqp8LQA3alUVEBqUSGidJXeMQGB5b7GyOd1ML-fgdndY)
@@ -267,7 +268,7 @@
 
 # Research Paper
 
-## Medium Blog enlisting 4 papers on monthend 
+## Medium Blog enlisting 4 papers on monthend
 
 [Four Deep Learning Papers to Read in each month](https://medium.com/@RobertTLange)
 
