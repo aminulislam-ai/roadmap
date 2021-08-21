@@ -10,12 +10,12 @@
 - [The Complete Python Development Guide](#the-complete-python-development-guide)
 - [Git and GitHub](#git-and-github)
 - [Python Best Practices](#python-best-practices)
-- [Machine Learning Toolbox](#machine-learning-toolbox)
 - [Software Design](#software-design)
 - [Design Pattern](#design-pattern)
 - [SOLID Principles](#solid-principles)
 - [Linear Algebra](#linear-algebra)
 - [Scientific Python](#scientific-python)
+- [Machine Learning Toolbox](#machine-learning-toolbox)
 - [Pandas](#pandas)
 - [Optimizer](#optimizer)
 - [Debugging TensorFlow Models](#debugging-tensorflow-models)
@@ -98,10 +98,6 @@
 
 [You Tube - Real Python: Best Practices for Python Main Functions](https://www.youtube.com/watch?v=lOeIDvyRUQs)
 
-## Machine Learning Toolbox
-
-[Machine Learning Toolbox by Amit Chaudhary](https://amitness.com/toolbox/)
-
 ## Software Design
 
 [You Tube - Tech with Tim: An Introduction to Software Design - With Python](https://www.youtube.com/watch?v=-njsRb8Tn70&t=67s)
@@ -127,6 +123,10 @@
 ## Scientific Python
 
 [You Tube - SciPy Tutorial (2021): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=jmX4FOUEfgU&t=294s)
+
+## Machine Learning Toolbox
+
+[Machine Learning Toolbox by Amit Chaudhary](https://amitness.com/toolbox/)
 
 ## Pandas
 
@@ -159,6 +159,8 @@
 [Deep Learning Drizzle](https://deep-learning-drizzle.github.io)
 
 [Start Machine Learning in 2021 - Become an expert for free!](https://github.com/louisfb01/start-machine-learning-in-2020?fbclid=IwAR1Bu4E2AoEM3hvZyorBlrbvDu5xS63bnQPgMPYuPC_HuYvdDdzVmjilz6k)
+
+[The Machine & Deep Learning Compendium](https://book.mlcompendium.com)
 
 ## Computer Vision
 
