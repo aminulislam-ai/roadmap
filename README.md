@@ -110,6 +110,8 @@
 
 [Head First Design Patterns Python](https://github.com/miguelalba-old/hfdp-python)
 
+[Python Design Patterns by Brandon Rhodes](https://python-patterns.guide)
+
 ## SOLID Principles
 
 [SOLID Principles Visualization](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
