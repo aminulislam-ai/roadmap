@@ -31,6 +31,7 @@
 - [Antipattern in Python](#antipattern-in-python)
 - [Transformer](#transformer)
 - [BERT](#bert)
+- [Awesome Series](#awesome-series)
 - [Research Paper](#research-paper)
 - [Medium Blog enlisting 4 papers on monthend](#medium-blog-enlisting-4-papers-on-monthend)
 - [Paper Lists by Eugene Yan](#paper-lists-by-eugene-yan)
@@ -269,6 +270,12 @@
 - [End-to-end Masked Language Modeling with BERT](https://keras.io/examples/nlp/masked_language_modeling/)
 - [Semantic Similarity with BERT](https://keras.io/examples/nlp/semantic_similarity_with_bert/)
 - [Text Extraction with BERT](https://keras.io/examples/nlp/text_extraction_with_bert/)
+
+## Awesome Series
+
+[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+[Awesome MLOPS](https://github.com/visenger/awesome-mlops)
 
 # Research Paper
 
