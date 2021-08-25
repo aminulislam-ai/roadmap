@@ -165,6 +165,8 @@
 
 [The Machine & Deep Learning Compendium](https://book.mlcompendium.com)
 
+[Applied ML by Eugene Yan](https://github.com/eugeneyan/applied-ml)
+
 ## Computer Vision
 
 [Glossary of Common Computer Vision Terms](https://blog.roboflow.com/glossary/)
