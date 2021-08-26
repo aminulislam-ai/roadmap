@@ -36,6 +36,7 @@
 - [Medium Blog enlisting 4 papers on monthend](#medium-blog-enlisting-4-papers-on-monthend)
 - [Paper Lists by Eugene Yan](#paper-lists-by-eugene-yan)
 - [NLP Reading Group Papers](#nlp-reading-group-papers)
+- [Reinforcement Learning](#reinforcement-learning)
 
 ## Interview Preparation
 
@@ -292,3 +293,9 @@
 [NLP Reading Summer21](https://docs.google.com/document/d/e/2PACX-1vRia76U_JQwpLgGoQRH2mQHJewl1kJcXKiOib81ga3WS6vFkQUucRLwtGI_rUSxQqtett1h2z0cJetl/pub?urp=gmail_link)
 
 [NLP Reading Fall21](https://docs.google.com/document/d/e/2PACX-1vSPhi_N9BqxTrla-4Zpgvtx2pZt-ZH5gAIUi5pBA8gR40oG5Nqc4GExxJvwpp-x7UQoTQy9DlhQLL_P/pub?urp=gmail_link)
+
+## Reinforcement Learning
+
+[Videos - Foundations of Deep Reinforcement Learning by Pieter Abbeel](https://youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0 )
+
+[Slides - Foundations of Deep Reinforcement Learning by Pieter Abbeel](https://www.dropbox.com/s/to43tskzsydqhel/foundations-deep-rl-abbeel.zip?dl=0)]
