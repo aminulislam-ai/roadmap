@@ -37,6 +37,7 @@
 - [Paper Lists by Eugene Yan](#paper-lists-by-eugene-yan)
 - [NLP Reading Group Papers](#nlp-reading-group-papers)
 - [Reinforcement Learning](#reinforcement-learning)
+- [JAX](#jax)
 
 ## Interview Preparation
 
@@ -301,3 +302,7 @@
 [Slides - Foundations of Deep Reinforcement Learning by Pieter Abbeel](https://www.dropbox.com/s/to43tskzsydqhel/foundations-deep-rl-abbeel.zip?dl=0)]
 
 [Reinforcement Learning Course Materials by Oliver Wallscheid](https://github.com/upb-lea/reinforcement_learning_course_materials?fbclid=IwAR3sB6YWGLBlVZrCK3vftSs6cEpMgq9jvI0EPNfrWe39CzyyDmRuhMcAE3U)
+
+## JAX
+
+[JAX Tutorial by Aakash Nain](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part1)
