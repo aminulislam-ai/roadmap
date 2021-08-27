@@ -299,3 +299,5 @@
 [Videos - Foundations of Deep Reinforcement Learning by Pieter Abbeel](https://youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0 )
 
 [Slides - Foundations of Deep Reinforcement Learning by Pieter Abbeel](https://www.dropbox.com/s/to43tskzsydqhel/foundations-deep-rl-abbeel.zip?dl=0)]
+
+[Reinforcement Learning Course Materials by Oliver Wallscheid](https://github.com/upb-lea/reinforcement_learning_course_materials?fbclid=IwAR3sB6YWGLBlVZrCK3vftSs6cEpMgq9jvI0EPNfrWe39CzyyDmRuhMcAE3U)
