@@ -67,6 +67,8 @@
 
 [Learning Python - Resource List](https://docs.python-guide.org/intro/learning/?fbclid=IwAR2qrGL45aXl1jD0PJStrYdtEhjBm9st9raj2816LaDzC_YdtgPQe8eLl_Q)
 
+[Python behind the scenes by Ten Thousand Meters](https://tenthousandmeters.com/tag/python-behind-the-scenes/)
+
 ## Python Terms
 
 [Corey Schafer - Programming Terms: First-Class Functions](https://www.youtube.com/watch?v=kr0mpwqttM0)
