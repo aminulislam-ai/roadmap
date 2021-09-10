@@ -305,6 +305,8 @@
 
 [Reinforcement Learning Course Materials by Oliver Wallscheid](https://github.com/upb-lea/reinforcement_learning_course_materials?fbclid=IwAR3sB6YWGLBlVZrCK3vftSs6cEpMgq9jvI0EPNfrWe39CzyyDmRuhMcAE3U)
 
+[DeepMind - Reinforcement Learning Lecture Series 2021](https://deepmind.com/learning-resources/reinforcement-learning-series-2021?fbclid=IwAR1o9KweqSiz-MYGLOKjQD-UaPMtEE-is5DvSDtQDiiN2RMGv_q6YijSMMY)
+
 ## JAX
 
 [JAX Tutorial by Aakash Nain](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part1)
