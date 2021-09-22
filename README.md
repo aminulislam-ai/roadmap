@@ -270,6 +270,8 @@
 
 # Research Paper
 
+[How to Read More Research Papers? by Louis Bouchard](https://www.louisbouchard.ai/research-papers/)
+
 ## Medium Blog enlisting 4 papers on monthend
 
 [Four Deep Learning Papers to Read in each month](https://medium.com/@RobertTLange)
