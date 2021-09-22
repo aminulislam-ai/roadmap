@@ -31,10 +31,13 @@
 - [Antipattern in Python](#antipattern-in-python)
 - [Transformer](#transformer)
 - [BERT](#bert)
+- [Awesome Series](#awesome-series)
 - [Research Paper](#research-paper)
 - [Medium Blog enlisting 4 papers on monthend](#medium-blog-enlisting-4-papers-on-monthend)
 - [Paper Lists by Eugene Yan](#paper-lists-by-eugene-yan)
 - [NLP Reading Group Papers](#nlp-reading-group-papers)
+- [Reinforcement Learning](#reinforcement-learning)
+- [JAX](#jax)
 
 ## Interview Preparation
 
@@ -63,6 +66,8 @@
 ## Python
 
 [Learning Python - Resource List](https://docs.python-guide.org/intro/learning/?fbclid=IwAR2qrGL45aXl1jD0PJStrYdtEhjBm9st9raj2816LaDzC_YdtgPQe8eLl_Q)
+
+[Python behind the scenes by Ten Thousand Meters](https://tenthousandmeters.com/tag/python-behind-the-scenes/)
 
 ## Python Terms
 
@@ -109,6 +114,8 @@
 [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
 
 [Head First Design Patterns Python](https://github.com/miguelalba-old/hfdp-python)
+
+[Python Design Patterns by Brandon Rhodes](https://python-patterns.guide)
 
 ## SOLID Principles
 
@@ -268,6 +275,12 @@
 - [Semantic Similarity with BERT](https://keras.io/examples/nlp/semantic_similarity_with_bert/)
 - [Text Extraction with BERT](https://keras.io/examples/nlp/text_extraction_with_bert/)
 
+## Awesome Series
+
+[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+[Awesome MLOPS](https://github.com/visenger/awesome-mlops)
+
 # Research Paper
 
 [How to Read More Research Papers? by Louis Bouchard](https://www.louisbouchard.ai/research-papers/)
@@ -285,3 +298,17 @@
 [NLP Reading Summer21](https://docs.google.com/document/d/e/2PACX-1vRia76U_JQwpLgGoQRH2mQHJewl1kJcXKiOib81ga3WS6vFkQUucRLwtGI_rUSxQqtett1h2z0cJetl/pub?urp=gmail_link)
 
 [NLP Reading Fall21](https://docs.google.com/document/d/e/2PACX-1vSPhi_N9BqxTrla-4Zpgvtx2pZt-ZH5gAIUi5pBA8gR40oG5Nqc4GExxJvwpp-x7UQoTQy9DlhQLL_P/pub?urp=gmail_link)
+
+## Reinforcement Learning
+
+[Videos - Foundations of Deep Reinforcement Learning by Pieter Abbeel](https://youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0 )
+
+[Slides - Foundations of Deep Reinforcement Learning by Pieter Abbeel](https://www.dropbox.com/s/to43tskzsydqhel/foundations-deep-rl-abbeel.zip?dl=0)]
+
+[Reinforcement Learning Course Materials by Oliver Wallscheid](https://github.com/upb-lea/reinforcement_learning_course_materials?fbclid=IwAR3sB6YWGLBlVZrCK3vftSs6cEpMgq9jvI0EPNfrWe39CzyyDmRuhMcAE3U)
+
+[DeepMind - Reinforcement Learning Lecture Series 2021](https://deepmind.com/learning-resources/reinforcement-learning-series-2021?fbclid=IwAR1o9KweqSiz-MYGLOKjQD-UaPMtEE-is5DvSDtQDiiN2RMGv_q6YijSMMY)
+
+## JAX
+
+[JAX Tutorial by Aakash Nain](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part1)
