@@ -221,6 +221,8 @@
 
 [Paper - A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf)
 
+[Treasure of Transformers by Ashish Patel](https://github.com/ashishpatel26/Treasure-of-Transformers)
+
 ## BERT
 
 **BERT: Bidirectional Encoder Representation from Transformers**
