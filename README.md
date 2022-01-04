@@ -55,6 +55,8 @@
 
 [Video tutorials for modern ideas and open source tools](https://calmcode.io)
 
+[Deep Learning Interviews](https://arxiv.org/pdf/2201.00650.pdf)
+
 ## Data Structure and Algorithm
 
 [You Tube - Lecture of Abdul Bari on Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
