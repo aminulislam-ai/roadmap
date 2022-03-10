@@ -191,6 +191,8 @@
 
 [NLP Learning Series: Part 1 - Text Preprocessing Methods for Deep Learning](https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/)
 
+[What are word2vec Embeddings?](https://mlwhiz.com/blog/2017/04/09/word_vec_embeddings_examples_understanding/)
+
 [NLP New Lecture of 2021 suggested by elvis](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA)
 
 [Real Python - Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/)
