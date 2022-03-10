@@ -183,7 +183,7 @@
 
 [Object Detection and Tracking in 2020](https://blog.netcetera.com/object-detection-and-tracking-in-2020-f10fb6ff9af3)
 
-[Object Detection by OpenAI's Lilian](https://lilianweng.github.io/lil-log/tag/object-detection)
+[Object Detection by OpenAI's Lilian](https://lilianweng.github.io/tags/object-detection/)
 
 [EfficientDet - Scalable and Efficient Object Detection](https://amaarora.github.io/2021/01/11/efficientdet.html)
 
