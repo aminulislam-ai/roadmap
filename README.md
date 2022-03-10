@@ -187,7 +187,7 @@
 
 [EfficientDet - Scalable and Efficient Object Detection](https://amaarora.github.io/2021/01/11/efficientdet.html)
 
-## Natural Langauge Processing
+## Natural Language Processing
 
 [NLP New Lecture of 2021 suggested by elvis](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA)
 
