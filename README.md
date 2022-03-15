@@ -43,6 +43,8 @@
 
 [Coding Interview University](https://github.com/jwasham/coding-interview-university?fbclid=IwAR031SuIcbhYI3lsJIsay6u_sDPaeCaaB8bGaiznN5RxcqJI7WCEDwkvwDg)
 
+[Computer Science Courses with Video Lectures tweeted by elvis](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3u2n07PRUGoQoGrgIII96uXIvuA1g1cve1NzoYirckeevBgZIiN3AySgU)
+
 [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 
 [Open Source Society University - Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)
