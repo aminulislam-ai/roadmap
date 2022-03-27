@@ -49,6 +49,8 @@
 
 [Open Source Society University - Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)
 
+[Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+
 [বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](https://github.com/me-shaon/bangla-programming-resources)
 
 [Software Engineering : Interview Guide (Bangla)](https://dev.to/khabib97/interview-guide-bangla-1302)
