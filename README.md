@@ -220,10 +220,6 @@
 
 [You Tube - Tech with Tim : Python FAST API Tutorial](https://www.youtube.com/watch?v=-ykeT6kk4bk&t=332s)
 
-## MLOps
-
-[Made With ML - MLOps](https://madewithml.com)
-
 ## Antipattern in Python
 
 [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html?fbclid=IwAR3U6LR1RYyO5mff3dhb__hHH653cGDdrcgFPRatXIhhVNQIM4aEVLaGHfI)
@@ -335,6 +331,8 @@
 [JAX Tutorial by Aakash Nain](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part1)
 
 ## MLOps
+
+[Made With ML - MLOps](https://madewithml.com)
 
 [MLOps Basics](https://www.ravirajag.dev)
 
