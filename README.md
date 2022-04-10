@@ -38,6 +38,7 @@
 - [NLP Reading Group Papers](#nlp-reading-group-papers)
 - [Reinforcement Learning](#reinforcement-learning)
 - [JAX](#jax)
+- [MLOps](#mlops)
 
 ## Interview Preparation
 
@@ -332,6 +333,10 @@
 ## JAX
 
 [JAX Tutorial by Aakash Nain](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part1)
+
+## MLOps
+
+[MLOps Basics](https://www.ravirajag.dev)
 
 ## Links to add 
 
