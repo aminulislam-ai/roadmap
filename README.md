@@ -15,6 +15,7 @@
 - [SOLID Principles](#solid-principles)
 - [Linear Algebra](#linear-algebra)
 - [Scientific Python](#scientific-python)
+- [Machine Learning](#machine-learning)
 - [Machine Learning Toolbox](#machine-learning-toolbox)
 - [Pandas](#pandas)
 - [Optimizer](#optimizer)
@@ -137,6 +138,10 @@
 ## Scientific Python
 
 [You Tube - SciPy Tutorial (2021): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=jmX4FOUEfgU&t=294s)
+
+## Machine Learning
+
+[ML for Beginners by Microsoft](https://microsoft.github.io/ML-For-Beginners/#/)
 
 ## Machine Learning Toolbox
 
