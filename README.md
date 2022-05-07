@@ -346,3 +346,5 @@
 ## Links to add 
 
 [Efficient Python Tricks and Tools for Data Scientists by Khuyen Tran](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
+
+[ML Projects](https://github.com/ml-tooling/best-of-ml-python)
