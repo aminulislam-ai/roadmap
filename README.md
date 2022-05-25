@@ -43,6 +43,8 @@
 
 ## Interview Preparation
 
+[Technical Interview Handbook](https://www.techinterviewhandbook.org)
+
 [7 github repositories to crack tech interviews by Analytics India Magazine](https://analyticsindiamag.com/7-github-repositories-to-crack-tech-interviews/)
 
 [Coding Interview University](https://github.com/jwasham/coding-interview-university?fbclid=IwAR031SuIcbhYI3lsJIsay6u_sDPaeCaaB8bGaiznN5RxcqJI7WCEDwkvwDg)
