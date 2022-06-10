@@ -75,6 +75,8 @@
 
 [All algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 
+[Super Study Guide: Algorithms & Data Structures by Afshine Amidi, Shervine Amidi](https://superstudy.guide)
+
 ## Python
 
 [Learning Python - Resource List](https://docs.python-guide.org/intro/learning/?fbclid=IwAR2qrGL45aXl1jD0PJStrYdtEhjBm9st9raj2816LaDzC_YdtgPQe8eLl_Q)
